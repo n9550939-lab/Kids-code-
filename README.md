@@ -1,5 +1,3 @@
-# Kids-code-
-“Kids Code لعبة تعليمية للأطفال لتعلم البرمجة”.
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
